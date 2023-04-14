@@ -20,8 +20,8 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#dataset-and-preprocessing">Dataset and Feature Extraction</a></li>
-        <li><a href="#execution">Installation</a></li>
+        <li><a href="#dataset-and-preprocessing">Dataset and Preprocessing</a></li>
+        <li><a href="#execution">Execution</a></li>
       </ul>
     </li>
     <li><a href="#results">Results</a></li>
